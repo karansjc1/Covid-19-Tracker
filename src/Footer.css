@@ -1,0 +1,18 @@
+.footer {
+  height: 170px;
+  width: 100%;
+  background-color: gray;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.repo,
+.icons {
+  font-size: 10px;
+}
+.copyright {
+  position: absolute;
+  width: 100%;
+  text-align: center;
+  background-color: #616060fd;
+}
